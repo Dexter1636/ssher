@@ -8,7 +8,7 @@ git clone https://github.com/Dexter1636/ssher.git
 
 cd ssher
 
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 
 python3 my_ssher.py
 ```
